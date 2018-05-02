@@ -1,4 +1,4 @@
-# vue-app
+# Journal App
 
 > A Vue.js project
 
